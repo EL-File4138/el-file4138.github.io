@@ -1,3 +1,4 @@
+/* 修复主页流体盒子排列问题 */
 html, body {
     min-height: 100vh;
 }
@@ -11,6 +12,7 @@ body {
     flex: 1;
 }
 
+/* 正常调整 */
 code {
     font-family: mononoki, Consolas, Monaco, Monospace, Courier;
     color: #8ec371;
@@ -34,3 +36,18 @@ blockquote p {
     background-color: #66ccff;
 }
 
+/* iframe嵌入自适应 */
+.embed-iframe {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%; 
+}
+
+.embed-iframe iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
