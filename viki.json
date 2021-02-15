@@ -2,7 +2,7 @@
     "brand": "Matrew File",
     "title": "Matrew File's Place",
     "favicon": "https://github.com/EL-File4138/el-file4138.github.io/raw/master/css/icon.ico",
-    "footer": "/static/footer.md",
+    "footer": "Past, Present, and Future.<br><a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png\" /></a><br >除特殊标注外，本站采用<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\">知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议</a>进行许可。<br/>Made with ❤️ by Matrew File.",
     "show_suffix": false,
     "load_before_search": true,
     "fuzzy_search": true,
