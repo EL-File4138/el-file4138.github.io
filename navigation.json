@@ -10,7 +10,7 @@
             "text": "Blogs",
             "target": "content/_vnote.json",
             "navi": true,
-            "navi_index": "content/Site/Welcome.md"
+            "navi_index": "Site/Welcome.md"
         },
         {
             "text": "About",
