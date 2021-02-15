@@ -1,3 +1,16 @@
+html, body {
+    min-height: 100vh;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+#viki-main-container {
+    flex: 1;
+}
+
 code {
     font-family: mononoki, Consolas, Monaco, Monospace, Courier;
     color: #8ec371;
@@ -21,9 +34,3 @@ blockquote p {
     background-color: #66ccff;
 }
 
-.viki-footer {
-	position: absolute;
-	left: 0px;
-	right: 0px;
-	bottom: 0px;
-}
