@@ -7,17 +7,37 @@
             "toc": false
         },
         {
-            "text": "Notebook",
-            "target": "/content/_vnote.json",
+            "text": "Blogs",
+            "target": "content/_vnote.json",
             "navi": true
+        }
+        {
+			"text": "About",
+			"target": "static/about.md",
+			"children": 
+			[
+				{
+					"text": "Contact",
+					"target": "static/contact.md"
+				},
+				{
+					"text": "Friends",
+					"target": "static/friends.md"
+				}
+			]
         }
     ],
     "actions":
     [
         {
-            "text": "Matrew File's Place",
-            "icon": "css/icon.jpg",
-            "target": "https://elfile4138.moe/"
+            "text": "Github",
+            "icon": "css/github.svg",
+            "target": "https://github.com/EL-File4138"
+        },
+        {
+			"text": "Telegram",
+			"icon": "css/tg.svg",
+			"target": "https://t.me/Ftsu_Com_Bot"
         }
     ]
 }
