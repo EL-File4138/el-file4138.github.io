@@ -1,0 +1,22 @@
+code {
+    font-family: mononoki, Consolas, Monaco, Monospace, Courier;
+    color: #8ec371;
+}
+
+pre code {
+    color: #6b97bf;
+    background-color: #343a45;
+    font-family: mononoki, Consolas, Monaco, Monospace, Courier;
+}
+
+blockquote {
+    color: #4a4a4a;
+}
+
+blockquote p {
+    color: #4a4a4a;
+}
+
+.viki-navbar {
+    background-color: #66ccff;
+}
