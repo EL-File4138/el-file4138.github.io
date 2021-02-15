@@ -10,7 +10,7 @@
             "text": "Blogs",
             "target": "content/_vnote.json",
             "navi": true
-        }
+        },
         {
 			"text": "About",
 			"target": "static/about.md",
