@@ -8,16 +8,16 @@
         },
         {
             "text": "Notebook",
-            "target": "_vnote.json",
+            "target": "/content/_vnote.json",
             "navi": true
         }
     ],
     "actions":
     [
         {
-            "text": "Viki",
-            "icon": "css/viki_white.svg",
-            "target": "https://tamlok.github.io/viki/"
+            "text": "Matrew File's Place",
+            "icon": "css/icon.jpg",
+            "target": "https://elfile4138.moe/"
         }
     ]
 }

@@ -1,11 +1,11 @@
 {
-    "brand": "viki",
-    "title": "Viki - A simple Wiki page in Markdown from notebook of VNote",
+    "brand": "Matrew File",
+    "title": "Matrew File's Place",
     "favicon": "https://github.com/tamlok/viki/raw/master/resources/viki.ico",
     "footer": "",
     "show_suffix": false,
     "load_before_search": true,
-    "fuzzy_search": false,
+    "fuzzy_search": true,
     "markdown":
     {
         "html": true,
@@ -16,6 +16,6 @@
         "image_caption": true,
         "plantuml_server": "https://www.plantuml.com/plantuml",
         "plantuml_format": "svg",
-        "code_block_line_number": false
+        "code_block_line_number": true
     }
 }
