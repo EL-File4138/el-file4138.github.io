@@ -15,7 +15,10 @@ PRC高中生，雅思备考中。业余Linux运维，技术文档编辑。
 > Let's go back to a time when things were much simpler. 
 
 没有任何固定主题，写的一切东西看我心情。
-<iframe width="1200" height="720" src="https://www.youtube.com/embed/bFlGVbah8t8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<div class="embed-iframe">
+<iframe src="https://www.youtube.com/embed/bFlGVbah8t8" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="1280" height="720" frameborder="0"></iframe>
+</div>
 
 ## Disgusting？
 内容不代表任何思想倾向，如果你非要扣帽子那麻烦离开。
