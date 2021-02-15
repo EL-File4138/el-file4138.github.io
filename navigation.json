@@ -16,10 +16,6 @@
             "children": 
             [
 				{
-					"text": "About me",
-					"target": "static/about.md",
-				},
-				{
 					"text": "Contact",
 					"target": "static/contact.md"
 				},
