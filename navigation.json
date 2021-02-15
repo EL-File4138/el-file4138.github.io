@@ -12,11 +12,11 @@
             "navi": true
         },
         {
-			"text": "About",
-			"children": 
-			[
+            "text": "About",
+            "children": 
+            [
 				{
-					"text": "About",
+					"text": "About me",
 					"target": "static/about.md",
 				},
 				{
@@ -27,7 +27,7 @@
 					"text": "Friends",
 					"target": "static/friends.md"
 				}
-			]
+            ]
         }
     ],
     "actions":
