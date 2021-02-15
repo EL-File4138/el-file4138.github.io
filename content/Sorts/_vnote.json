@@ -1,0 +1,17 @@
+{
+    "created_time": "2021-02-15T06:31:50Z",
+    "files": [
+    ],
+    "sub_directories": [
+        {
+            "name": "Critics"
+        },
+        {
+            "name": "Literature"
+        },
+        {
+            "name": "Tech"
+        }
+    ],
+    "version": "1"
+}
