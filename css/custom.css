@@ -20,3 +20,8 @@ blockquote p {
 .viki-navbar {
     background-color: #66ccff;
 }
+
+.viki-footer {
+	position: absolute;
+	bottom: 0px
+}
