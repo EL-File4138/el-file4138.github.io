@@ -13,9 +13,12 @@
         },
         {
 			"text": "About",
-			"target": "static/about.md",
 			"children": 
 			[
+				{
+					"text": "About",
+					"target": "static/about.md",
+				}
 				{
 					"text": "Contact",
 					"target": "static/contact.md"
